@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-footnote/commit/9a174e4cba089f4b117134a220164bdc20f070fe",
       "git:hexsha": "9a174e4cba089f4b117134a220164bdc20f070fe",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:48:55.935066+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/mdformat-footnote/commit/1e1c4dda3f77227a3a1b293fb921bc1b8eb97da2",
